@@ -23,5 +23,5 @@ Final validation accuracy: transfer 0.50 · from scratch 0.30
 [[0, 1, 2], [-1, 0, 1], [-2, -1, 0]]
 
 ## AI and outside help
-- ChatGPT: explained the steps of the activity.
-- My best friends (Kim Nasayao, Vincee Jandayan, Joaquin Ermita, Juhanara Saluta, Karol Tacang, Rene Estrella, Francis Cejas, Marcus Cuaton): answered my questions when I was unsure about something.
+- ChatGPT: Explained the steps of the activity.
+- My best friends (Kim Nasayao, Vincee Jandayan, Joaquin Ermita, Juhanara Saluta, Karol Tacang, Rene Estrella, Francis Cejas, Marcus Cuaton): Answered my questions when I was unsure about something.
